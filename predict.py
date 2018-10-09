@@ -3,7 +3,7 @@ import numpy as np
 from keras.preprocessing import image
 from keras.models import load_model
 
-classifier = load_model('model.h5', custom_objects={'layer':name})
+classifier = load_model('model.h5')
 load_model()
 
 from keras.preprocessing.image import ImageDataGenerator
