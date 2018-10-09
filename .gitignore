@@ -1,0 +1,6 @@
+env/
+dataset/
+nohup.out
+cnn.py.save
+.gitignore.save
+logs/
